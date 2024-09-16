@@ -27,5 +27,7 @@ rules:
 ## quantumult x usage
 
 ```
-https://github.com/seiry/PCDNFilter-clash/raw/main/pcdn.list
+[filter_remote]
+https://github.com/seiry/PCDNFilter-clash/raw/main/pcdn.list, tag=pcdn, update-interval=604800, opt-parser=false, enabled=true
+
 ```
