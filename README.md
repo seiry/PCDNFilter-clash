@@ -1,4 +1,4 @@
-## usage
+## clash usage
 
 ```yml
 rule-providers:
@@ -22,4 +22,10 @@ and
 rules:
     - RULE-SET, cn-doh, REJECT
     - RULE-SET, pcdn, REJECT
+```
+
+## quantumult x usage
+
+```
+https://github.com/seiry/PCDNFilter-clash/raw/main/pcdn.list
 ```
